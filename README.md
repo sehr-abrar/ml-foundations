@@ -38,9 +38,10 @@ Labs were completed using Python and Jupyter notebooks, with a focus on applying
   **Lab 7**: Neural Networks and Image Classification  
 
 - **Unit 8: Special Topics: Natural Language Processing**  
-  **Lab 8**: Text Processing and Sentiment Classification  
+  **Lab 8a**: Text Processing and Sentiment Classification  
 
 - **Unit 9: Promote Responsible AI**
+  **Lab 8b**: Continuation of Lab 8a
 
   
 ## 🧠 Skills Gained
